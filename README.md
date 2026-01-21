@@ -33,5 +33,4 @@ A **menu-driven scientific calculator** built using **Python** that supports bas
  jchhavi2317@gmail.com
  
 
-## 📂 Project Structure
 
