@@ -29,7 +29,8 @@ A **menu-driven scientific calculator** built using **Python** that supports bas
 - 📦 **math module**
 
 ---
- Author Chhavi Jain\n
+ Author Chhavi Jain
+ 
  jchhavi2317@gmail.com
  
 
